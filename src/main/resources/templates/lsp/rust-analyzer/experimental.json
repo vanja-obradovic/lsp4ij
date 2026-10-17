@@ -9,12 +9,8 @@
   "testExplorer": false,
   "commands": {
     "commands": [
-      "rust-analyzer.runSingle",
-      "rust-analyzer.debugSingle",
       "rust-analyzer.showReferences",
-      "rust-analyzer.gotoLocation",
-      "rust-analyzer.triggerParameterHints",
-      "rust-analyzer.rename"
+      "rust-analyzer.triggerParameterHints"
     ]
   }
 }
